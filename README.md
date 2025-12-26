@@ -2,7 +2,8 @@
 
 A lightweight, simple python port scanner that scans the ports of the specified ip address.
 
-> [!IMPORTANT] > **Legal Disclaimer**: This tool is for **educational and authorized testing purposes only**. Scanning networks, servers, or devices that you do not own or do not have explicit permission to test is illegal. The author accepts no responsibility for unauthorized use.
+> [!IMPORTANT] 
+> **Legal Disclaimer**: This tool is for **educational and authorized testing purposes only**. Scanning networks, servers, or devices that you do not own or do not have explicit permission to test is illegal. The author accepts no responsibility for unauthorized use.
 
 ---
 
