@@ -32,7 +32,7 @@ A lightweight, simple python port scanner that scans the ports of the specified 
 1.  **Clone the repository**
 
     ```bash
-    git clone [https://github.com/yourusername/portscanner.git](https://github.com/yourusername/portscanner.git)
+    git clone https://github.com/Pranav-Surya-S/portScanner
     cd portScanner
     ```
 
